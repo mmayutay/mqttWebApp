@@ -16,8 +16,11 @@
     "url": "https://github.com/mmayutay/mqttWebApp/issues"
   },
   "homepage": "https://github.com/mmayutay/mqttWebApp#readme",
-
   "engines": {
     "node": "10.15.3"
-  }
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
 }
